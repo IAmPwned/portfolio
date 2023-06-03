@@ -76,63 +76,60 @@ const About = () => {
           <div className="col-lg-4 m-15px-tb">
             <ul className="aducation-box">
               <li>
-                <span>2010-2012</span>
-                <h6>Graphic Designer</h6>
-                <p>International Design Institute</p>
+                <span>AUGUST 2019 – PRESENT</span>
+                <h6>Bachelor of Science in Information Technology</h6>
+                <p>Mapua Malayan Colleges Laguna</p>
               </li>
               <li>
-                <span>2010-2012</span>
-                <h6>Web Development</h6>
-                <p>International Design Institute</p>
+                <span>JUNE 2017 – MARCH 2019</span>
+                <h6>Senior High School (ICT - MAWD)</h6>
+                <p>Systems Technology Institute Southwoods</p>
               </li>
               <li>
-                <span>2010-2012</span>
-                <h6>Search Engine Optimization</h6>
-                <p>International Design Institute</p>
+                <span>JUNE 2010 – MARCH 2017</span>
+                <h6>Grade School - Junior High School</h6>
+                <p>Caritas Don Bosco School</p>
               </li>
             </ul>
           </div>
-          <div className="col-lg-7 ml-auto m-15px-tb">
+          <div className="col-lg-8 ml-auto m-15px-tb">
             <div className="skills-box">
               <h3>My skills</h3>
-              <p>
-                {`I'm`} a Freelancer Front-end Developer with over 3 years of
-                experience. I code and create web elements for amazing people
-                around the world. I like work with new people. New people new
-                Experiences.
+              <p className="text-justify">
+                In terms of technology, I'm skilled in a variety of platforms, including Arduino, C++, Bootstrap, Tailwind CSS, Daisy UI, HTML5, CSS3, React JS, Svelte, C# ASP.NET, Java, PHP, Java, Kotlin, C#, and Xamarin. I can construct IoT projects, visually appealing web designs, dynamic web applications, and cross-platform mobile apps with these abilities. I am prepared to take on a variety of projects and offer top-notch solutions.
               </p>
               <div className="skill-lt">
-                <h6>HTML5</h6>
+                <h6>IoT (Arduino, C++)</h6>
                 <div className="skill-bar">
-                  <div className="skill-bar-in" style={{ width: "92%" }}>
-                    <span data-toggle="tooltip" title="92%" />
+                  <div className="skill-bar-in" style={{ width: "95%" }}>
+                    <span data-toggle="tooltip" title="95%" />
                   </div>
                 </div>
               </div>
               {/* /skill */}
               <div className="skill-lt">
-                <h6>WordPress</h6>
+                <h6>Web Design (Bootstrap, Tailwind CSS, Daisy UI, HTML5, CSS3)</h6>
                 <div className="skill-bar">
-                  <div className="skill-bar-in" style={{ width: "72%" }}>
-                    <span data-toggle="tooltip" title="72%" />
+                  <div className="skill-bar-in" style={{ width: "70%" }}>
+                    <span data-toggle="tooltip" title="70%" />
                   </div>
                 </div>
               </div>
               {/* /skill */}
               <div className="skill-lt">
-                <h6>Magento</h6>
+                <h6>Web Development (React JS, Svelte, C# ASP.NET, Java, PHP)</h6>
                 <div className="skill-bar">
-                  <div className="skill-bar-in" style={{ width: "86%" }}>
-                    <span data-toggle="tooltip" title="86%" />
+                  <div className="skill-bar-in" style={{ width: "85%" }}>
+                    <span data-toggle="tooltip" title="85%" />
                   </div>
                 </div>
               </div>
               {/* /skill */}
               <div className="skill-lt">
-                <h6>UI/UX</h6>
+                <h6>Mobile Application Development (Java, Kotlin, C#, Xamarin)</h6>
                 <div className="skill-bar">
-                  <div className="skill-bar-in" style={{ width: "88%" }}>
-                    <span data-toggle="tooltip" title="88%" />
+                  <div className="skill-bar-in" style={{ width: "65%" }}>
+                    <span data-toggle="tooltip" title="65%" />
                   </div>
                 </div>
               </div>
