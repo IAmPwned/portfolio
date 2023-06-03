@@ -33,7 +33,7 @@ const IndexGlitch = () => {
                   </div>
                   <h1 className="font-alt">Mark Anthony Zaraspe</h1>
                   <p className="lead">
-                    I Am <TypingAnimation />
+                    I Am An Aspiring <TypingAnimation />
                   </p>
                   <div className="nav justify-content-center social-icons">
                     <a href="https://www.facebook.com/ska08ter/">

@@ -9,9 +9,17 @@ const About = () => {
         <div className="row align-items-center justify-content-center">
           <div className="col-lg-6 m-15px-tb">
             <div className="about-me">
-              <div className="img">
+              <div className="img ">
                 <div className="img-in">
-                  <img src="static/img/about-me.png" title="" alt="" />
+                  <style jsx>{`
+                    @media (min-width: 1200px) {
+                    .about-img {
+                      max-width: 100%;
+                      height: 720px;
+                    }`
+                    }
+                  </style>
+                  <img className="img-fluid about-img" src="static/img/about_me.jpg" title="" alt="" />
                 </div>
               </div>
             </div>
@@ -23,19 +31,15 @@ const About = () => {
               </div>
               <div className="about-text">
                 <h3>
-                  {`I'm`} a Freelancer Front-end Developer with over 3 years of
-                  experience.{" "}
+                  {`I'm`} an aspiring <b className="text-primary">Software Developer</b> and <b className="text-danger">Cybersecurity Professional</b>{" "}
                 </h3>
-                <p>
-                  {`I'm`} a Freelancer Front-end Developer with over 3 years of
-                  experience. {`I'm`} from San Francisco. I code and create web
-                  elements for amazing people around the world. I like work with
-                  new people. New people new Experiences.
+                <p className="text-justify">
+                  {`I'm`} Mark Anthony Zaraspe, a web and mobile developer based in Laguna, Philippines. I have a passion for technology, and I particularly enjoy creating web and mobile applications and working on Internet of Things (IoT)-related projects. In addition, I'm quite interested in cybersecurity, which enables me to make sure that digital systems are secure and protected. With a solid foundation in these fields, I work hard to develop cutting-edge solutions that satisfy clients' expectations and progress technology.
                 </p>
                 <div className="row">
                   <div className="col-auto">
                     <div className="media align-items-center">
-                      <span className="count">5k</span>
+                      <span className="count">59</span>
                       <div className="media-body">
                         Projects <br />
                         Completed.
@@ -44,7 +48,7 @@ const About = () => {
                   </div>
                   <div className="col-auto">
                     <div className="media align-items-center">
-                      <span className="count">3k</span>
+                      <span className="count">46</span>
                       <div className="media-body">
                         Satisfied <br />
                         Clients.

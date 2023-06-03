@@ -38,7 +38,7 @@ const Header = ({ blog }) => {
           <div className="hl-top">
             <div className="hl-logo">
               <div className="img">
-                <img src="static/img/icon.jpg" title="" alt="" />
+                <img src="static/img/main.jpg" title="" alt="" />
               </div>
               <h5>Marco</h5>
             </div>
@@ -46,16 +46,16 @@ const Header = ({ blog }) => {
           {blog ? <MenuWithBlog /> : <MenuWithOutBlog />}
         </div>
         <div className="nav justify-content-center social-icons">
-          <a href="#">
+          <a href="https://www.facebook.com/ska08ter/">
             <i className="fab fa-facebook-f" />
           </a>
-          <a href="#">
+          <a href="https://twitter.com/_MarkZaraspe">
             <i className="fab fa-twitter" />
           </a>
-          <a href="#">
+          <a href="https://www.instagram.com/mrk.zrsp/">
             <i className="fab fa-instagram" />
           </a>
-          <a href="#">
+          <a href="https://www.linkedin.com/in/mark-anthony-zaraspe-3212b5267/">
             <i className="fab fa-linkedin-in" />
           </a>
         </div>

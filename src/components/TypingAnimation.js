@@ -6,10 +6,10 @@ const TypingAnimation = () => {
 
   useEffect(() => {
     const typed = new Typed(el.current, {
-      strings: ["An IoT Developer","A Web Developer", "An Aspiring Penetration Tester"], // Strings to display
-      typeSpeed: 150,
-      backSpeed: 200,
-      backDelay: 150,
+      strings: ["IoT Developer", "Penetration Tester","Web and Mobile Developer"], // Strings to display
+      typeSpeed: 50,
+      backSpeed: 100,
+      backDelay: 500,
       smartBackspace: true,
       loop: true,
       showCursor: true,
