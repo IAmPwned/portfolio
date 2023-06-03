@@ -7,15 +7,30 @@ const About = () => {
     >
       <div className="container">
         <div className="row align-items-center justify-content-center">
-          <div className="col-lg-6 m-15px-tb">
+          <div className="col-lg-4 m-15px-tb">
             <div className="about-me">
               <div className="img ">
                 <div className="img-in">
                   <style jsx>{`
+                    @media (min-width: 300px) {
+                        .about-img {
+                          max-width: 100%;
+                          height: 300px;
+                    }
+                    @media (min-width: 600px) {
+                      .about-img {
+                        max-width: 100%;
+                        height: 400px;
+                    }
+                    @media (min-width: 1080px) {
+                    .about-img {
+                      max-width: 100%;
+                      height: 450px;
+                    }
                     @media (min-width: 1200px) {
                     .about-img {
                       max-width: 100%;
-                      height: 720px;
+                      height: 540px;
                     }`
                     }
                   </style>
@@ -24,7 +39,7 @@ const About = () => {
               </div>
             </div>
           </div>
-          <div className="col-lg-6 m-15px-tb">
+          <div className="col-lg-8 m-15px-tb">
             <div className="about-info">
               <div className="title">
                 <h3>About me.</h3>
