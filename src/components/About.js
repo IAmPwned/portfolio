@@ -78,7 +78,7 @@ const About = () => {
               <li>
                 <span>AUGUST 2019 – PRESENT</span>
                 <h6>Bachelor of Science in Information Technology</h6>
-                <p>Mapua Malayan Colleges Laguna</p>
+                <p>Mapúa Malayan Colleges Laguna</p>
                 <p className="ml-3 text-muted">{'>'} President's Lister</p>
                 <p className="ml-3 text-muted">{'>'} Dean's Lister</p>
                 <p className="ml-3 text-muted">{'>'} Full Academic Scholar</p>
@@ -152,14 +152,14 @@ const About = () => {
             <div className="row">
               <div className="col-sm-3 col-md-3 col-xl-2">
                 <div className="rb-left">
-                  <img src="static/img/a1.png" title="" alt="" />
+                  <img src="static/img/fasttrack_icon.jpg" title="" alt="" />
                 </div>
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
-                  <h6>Front-end Developer</h6>
-                  <label>WeLab | Remote | Jan 2019 - Present</label>
-                  <div className="rb-time">Full Time</div>
+                  <h6>Oracle Netsuite Technical Consultant Intern</h6>
+                  <label>Fasttrack Solutions Inc. | Remote | April 2023 - Present</label>
+                  <div className="rb-time">Internship</div>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit,
                     sed do eiusmod tempor incididunt ut labore et dolore magna
@@ -175,20 +175,16 @@ const About = () => {
             <div className="row">
               <div className="col-sm-3 col-md-3 col-xl-2">
                 <div className="rb-left">
-                  <img src="static/img/a2.png" title="" alt="" />
+                  <img src="static/img/mapua_ccis.jpg" title="" alt="" />
                 </div>
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
-                  <h6>Front-end Developer</h6>
-                  <label>WeLab | Remote | Jan 2019 - Present</label>
-                  <div className="rb-time">Full Time</div>
+                  <h6>IoT Developer and Implementor</h6>
+                  <label>Mapúa MCL | Remote | Dec 2022 - June 2023</label>
+                  <div className="rb-time">Capstone Project</div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                    sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor.
+                    In the project "Hey-Whizzy: A Google Assistant-Based Smart Classroom," I developed and integrated IoT system modules using Arduino, ensuring a successful implementation. I also designed prototype hardware and improved the web application's front end with ReactJS, enhancing the user experience.
                   </p>
                 </div>
               </div>
@@ -198,14 +194,33 @@ const About = () => {
             <div className="row">
               <div className="col-sm-3 col-md-3 col-xl-2">
                 <div className="rb-left">
-                  <img src="static/img/a3.png" title="" alt="" />
+                  <img src="static/img/mapua_ccis.jpg" title="" alt="" />
                 </div>
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
-                  <h6>Front-end Developer</h6>
-                  <label>WeLab | Remote | Jan 2019 - Present</label>
-                  <div className="rb-time">Full Time</div>
+                  <h6>Web Designer and Developer</h6>
+                  <label>Mapúa MCL | Remote | Feb 2021 - March 2021</label>
+                  <div className="rb-time">Course Project</div>
+                  <p>
+                    In the project "eMerch," I designed a responsive front-end interface using HTML, CSS, and Bootstrap, improving the user experience across devices. I developed a real-time back-end system using ASP.NET, managed the MSSQL database, and implemented robust security measures for web and database systems. Overall, my contributions to "eMerch" resulted in an enhanced user experience, a scalable database, and improved security.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="resume-row">
+            <div className="row">
+              <div className="col-sm-3 col-md-3 col-xl-2">
+                <div className="rb-left">
+                  <img src="static/img/linearworks_icon.jpg" title="" alt="" />
+                </div>
+              </div>
+              <div className="col-sm-9 col-md-9 col-xl-10">
+                <div className="rb-right">
+                  <h6>IT Staff Intern</h6>
+                  <label>Linearworks Corporation | Onsite | Jan 2019 - March 2019</label>
+                  <div className="rb-time">Internship</div>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit,
                     sed do eiusmod tempor incididunt ut labore et dolore magna
