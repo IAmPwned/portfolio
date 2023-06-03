@@ -222,11 +222,7 @@ const About = () => {
                   <label>Linearworks Corporation | Onsite | Jan 2019 - March 2019</label>
                   <div className="rb-time">Internship</div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                    sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor.
+                    During my internship at Linearworks Corporation in Carmona, Philippines, I worked in the IT Department. I successfully managed and resolved system issues, collaborated on system enhancements, and contributed to improving the network infrastructure. It was a valuable experience that allowed me to apply my skills and make meaningful contributions to the company's IT operations.
                   </p>
                 </div>
               </div>
