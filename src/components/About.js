@@ -73,17 +73,23 @@ const About = () => {
           <h3>Education &amp; Skills</h3>
         </div>
         <div className="row">
-          <div className="col-lg-4 m-15px-tb">
+          <div className="col-lg-5 m-15px-tb">
             <ul className="aducation-box">
               <li>
                 <span>AUGUST 2019 – PRESENT</span>
                 <h6>Bachelor of Science in Information Technology</h6>
                 <p>Mapua Malayan Colleges Laguna</p>
+                <p className="ml-3 text-muted">{'>'} President's Lister</p>
+                <p className="ml-3 text-muted">{'>'} Dean's Lister</p>
+                <p className="ml-3 text-muted">{'>'} Full Academic Scholar</p>
+                <p className="ml-3 text-muted">{'>'} Former Mapúa MCL-ACM Member</p>
+                <p className="ml-3 text-muted">{'>'} Former Mapúa MCL-JISSA Member</p>
               </li>
               <li>
                 <span>JUNE 2017 – MARCH 2019</span>
                 <h6>Senior High School (ICT - MAWD)</h6>
                 <p>Systems Technology Institute Southwoods</p>
+                <p className="ml-3 text-muted">{'>'} With Honors</p>
               </li>
               <li>
                 <span>JUNE 2010 – MARCH 2017</span>
@@ -92,11 +98,11 @@ const About = () => {
               </li>
             </ul>
           </div>
-          <div className="col-lg-8 ml-auto m-15px-tb">
+          <div className="col-lg-7 ml-auto m-15px-tb">
             <div className="skills-box">
               <h3>My skills</h3>
               <p className="text-justify">
-                In terms of technology, I'm skilled in a variety of platforms, including Arduino, C++, Bootstrap, Tailwind CSS, Daisy UI, HTML5, CSS3, React JS, Svelte, C# ASP.NET, Java, PHP, Java, Kotlin, C#, and Xamarin. I can construct IoT projects, visually appealing web designs, dynamic web applications, and cross-platform mobile apps with these abilities. I am prepared to take on a variety of projects and offer top-notch solutions.
+                I possess a diverse skill set in various areas of technology. In IoT, I am proficient in Arduino and C++, allowing me to develop and integrate sensors and actuators into IoT projects. For web design, I have expertise in Bootstrap, Tailwind CSS, Daisy UI, HTML5, and CSS3, enabling me to create visually appealing and responsive web designs. In web development, I am skilled in React JS, Svelte, C# ASP.NET, Java, and PHP, providing me with the ability to build dynamic and scalable web applications. Additionally, I have experience in mobile application development using Java, Kotlin, C#, and Xamarin, allowing me to create cross-platform mobile apps. With this broad range of skills, I am well-equipped to undertake various projects and deliver high-quality solutions.
               </p>
               <div className="skill-lt">
                 <h6>IoT (Arduino, C++)</h6>
