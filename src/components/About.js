@@ -167,12 +167,35 @@ const About = () => {
             <div className="row">
               <div className="col-sm-3 col-md-3 col-xl-2">
                 <div className="rb-left">
-                  <img src="static/img/fasttrack_icon.jpg" title="" alt="" />
+                  <img src="static/img/cloudtech_icon.png" title="" alt="" />
                 </div>
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
                   <h6>Oracle Netsuite Technical Consultant Intern</h6>
+                  <label>CloudTech | Remote | April 2023 - Present</label>
+                  <div className="rb-time">Internship</div>
+                  <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                    sed do eiusmod tempor incididunt ut labore et dolore magna
+                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    Duis aute irure dolor.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="resume-row">
+            <div className="row">
+              <div className="col-sm-3 col-md-3 col-xl-2">
+                <div className="rb-left">
+                  <img src="static/img/fasttrack_icon.jpg" title="" alt="" />
+                </div>
+              </div>
+              <div className="col-sm-9 col-md-9 col-xl-10">
+                <div className="rb-right">
+                  <h6>CODEX Program Intern</h6>
                   <label>Fasttrack Solutions Inc. | Remote | April 2023 - Present</label>
                   <div className="rb-time">Internship</div>
                   <p>

@@ -66,13 +66,13 @@ const IndexGlitch = () => {
       <About />
       {/* End about us */}
       {/* Services */}
-      <Services />
+      {/* <Services /> */}
       {/* End Services */}
       {/* Portfolio */}
-      <Portfolio />
+      {/* <Portfolio /> */}
       {/* End Portfolio */}
       {/* Blog */}
-      <Blog />
+      {/* <Blog /> */}
       {/* End Blog */}
       {/* Contact us */}
       <Contact />
