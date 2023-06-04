@@ -59,7 +59,7 @@ const Contact = () => {
         <div className="row">
           <div className="col-lg-5 col-xl-4 m-15px-tb">
             <div className="contact-info">
-              <h4>What’s your story? Get in touch</h4>
+              <h4>What’s your story? Hit me up</h4>
               <p>
                 Always available for freelancing if the right project comes
                 along, Feel free to contact me.
@@ -68,16 +68,16 @@ const Contact = () => {
                 <li className="media">
                   <i className="ti-map" />
                   <span className="media-body">
-                    123 Stree New York City , United States Of America 750065.
+                    Biñan City, Laguna, Philippines 4024.
                   </span>
                 </li>
                 <li className="media">
                   <i className="ti-email" />
-                  <span className="media-body">support@domain.com</span>
+                  <span className="media-body">zaraspesystem@gmail.com</span>
                 </li>
                 <li className="media">
                   <i className="ti-mobile" />
-                  <span className="media-body">+044 9696 9696 3636</span>
+                  <span className="media-body">(+63) 915 284 4101</span>
                 </li>
               </ul>
             </div>
@@ -191,7 +191,7 @@ const Contact = () => {
               <div className="embed-responsive embed-responsive-21by9">
                 <iframe
                   className="embed-responsive-item"
-                  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3151.840107317064!2d144.955925!3d-37.817214!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sin!4v1520156366883"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1614.5478904670822!2d121.05181895350587!3d14.26648395865679!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd7da52c14d063%3A0x274deee355921871!2sSan%20Jose%20Village%20II%20Clubhouse!5e0!3m2!1sen!2sph!4v1685840938463!5m2!1sen!2sph"
                   allowFullScreen=""
                 />
               </div>
