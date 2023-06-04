@@ -60,19 +60,21 @@ const IndexGlitch = () => {
             </div>
           </div>
         </div>
+      <br></br>
+      <br></br>
       </section>
       {/* End Home */}
       {/* about us */}
       <About />
       {/* End about us */}
       {/* Services */}
-      {/* <Services /> */}
+      {/*<Services />*/}
       {/* End Services */}
       {/* Portfolio */}
-      {/* <Portfolio /> */}
+      {/*<Portfolio />*/}
       {/* End Portfolio */}
       {/* Blog */}
-      {/* <Blog /> */}
+      {/*<Blog />*/}
       {/* End Blog */}
       {/* Contact us */}
       <Contact />
