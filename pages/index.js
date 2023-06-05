@@ -2,7 +2,7 @@ import dynamic from "next/dynamic";
 import About from "../src/components/About";
 import Blog from "../src/components/Blog";
 import Contact from "../src/components/Contact";
-import Services from "../src/components/Services";
+import Stack from "../src/components/Stack";
 import TypingAnimation from "../src/components/TypingAnimation";
 import Layout from "../src/layout/Layout";
 const Portfolio = dynamic(() => import("../src/components/Portfolio"), {
@@ -69,7 +69,7 @@ const IndexGlitch = () => {
       <About />
       {/* End about us */}
       {/* Services */}
-      {/*<Services />*/}
+      <Stack />
       {/* End Services */}
       {/* Portfolio */}
       {/*<Portfolio />*/}
