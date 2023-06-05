@@ -1,8 +1,8 @@
 const Stack = () => {
   return (
     <section
-      id="Stack"
-      data-nav-tooltip="Stack"
+      id="stack"
+      data-nav-tooltip="stack"
       className="pp-section pp-scrollable section"
     >
       <div className="container">
