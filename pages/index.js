@@ -68,9 +68,9 @@ const IndexGlitch = () => {
       {/* about us */}
       <About />
       {/* End about us */}
-      {/* Services */}
+      {/* Tech Stack */}
       <Stack />
-      {/* End Services */}
+      {/* End Tech Stack */}
       {/* Portfolio */}
       {/*<Portfolio />*/}
       {/* End Portfolio */}
