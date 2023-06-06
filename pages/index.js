@@ -72,10 +72,10 @@ const IndexGlitch = () => {
       <Stack />
       {/* End Tech Stack */}
       {/* Portfolio */}
-      {/*<Portfolio />*/}
+      {/* <Portfolio /> */}
       {/* End Portfolio */}
       {/* Blog */}
-      {/*<Blog />*/}
+      <Blog />
       {/* End Blog */}
       {/* Contact us */}
       <Contact />

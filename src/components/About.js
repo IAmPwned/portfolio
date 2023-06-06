@@ -153,11 +153,7 @@ const About = () => {
                   <label>CloudTech | Remote | April 2023 - Present</label>
                   <div className="rb-time">Internship</div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                    sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor.
+                    As a technical consultant intern in the business NetSuite group of Cloudtech, I focused on NetSuite ERP implementation and enhancements. Task varies from supporting system integration, customization, and user acceptance testing.
                   </p>
                 </div>
               </div>
@@ -176,11 +172,7 @@ const About = () => {
                   <label>Fasttrack Solutions Inc. | Remote | April 2023 - Present</label>
                   <div className="rb-time">Internship</div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                    sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor.
+                    As an intern in FastTrack's Oracle NetSuite Technical track, I underwent the CODEX Program, gaining hands-on experience and training in configuring, customizing, and integrating NetSuite ERP systems.
                   </p>
                 </div>
               </div>

@@ -17,7 +17,7 @@ const Blog = () => {
       <div className="blog-listing" id="blog">
         <div className="container">
           <div className="title text-center">
-            <h3>Our Blogs</h3>
+            <h3>My Blogs</h3>
           </div>
           <div className="row">
             <div className="col-md-6 m-15px-tb blog-list-item">
@@ -25,17 +25,16 @@ const Blog = () => {
                 <div className="blog-img">
                   <Link href="/single-blog">
                     <a>
-                      <img src="static/img/blog-1.jpg" title="" alt="" />
+                      <img src="static/img/fasttrack_codex.jpeg" title="" alt="" />
                     </a>
                   </Link>
                 </div>
                 <div className="blog-info">
-                  <div className="meta">29/FEB/2022 - WEBSITE - 1 COMMENT</div>
+                  <div className="meta">05/JUNE/2023 - ACADEMIC PRACTICUM</div>
                   <h6>
                     <Link href="/single-blog">
                       <a>
-                        I Will Tell You The Truth About Design In The Next 60
-                        Seconds.
+                        Fasttrack Solutions Inc. Internship
                       </a>
                     </Link>
                   </h6>
@@ -45,105 +44,18 @@ const Blog = () => {
             <div className="col-md-6 m-15px-tb blog-list-item">
               <div className="blog-grid">
                 <div className="blog-img">
-                  <Link href="/single-blog">
+                  <Link href="#">
                     <a>
-                      <img src="static/img/blog-2.jpg" title="" alt="" />
+                      <img src="static/img/capstone.jpg" title="" alt="" />
                     </a>
                   </Link>
                 </div>
                 <div className="blog-info">
-                  <div className="meta">29/FEB/2022 - WEBSITE - 1 COMMENT</div>
+                  <div className="meta">01/JUNE/2023 - ACADEMIC CAPSTONE PROJECT</div>
                   <h6>
                     <Link href="/single-blog">
                       <a>
-                        Ten Mind-Blowing Reasons Why Design Is Using This
-                        Technique For Exposure.
-                      </a>
-                    </Link>
-                  </h6>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-6 m-15px-tb blog-list-item">
-              <div className="blog-grid">
-                <div className="blog-img">
-                  <Link href="/single-blog">
-                    <a>
-                      <img src="static/img/blog-3.jpg" title="" alt="" />
-                    </a>
-                  </Link>
-                </div>
-                <div className="blog-info">
-                  <div className="meta">29/FEB/2022 - WEBSITE - 1 COMMENT</div>
-                  <h6>
-                    <Link href="/single-blog">
-                      <a>
-                        Five Solid Evidences Attending Design Is Good For Your
-                        Career Development.
-                      </a>
-                    </Link>
-                  </h6>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-6 m-15px-tb blog-list-item">
-              <div className="blog-grid">
-                <div className="blog-img">
-                  <Link href="/single-blog">
-                    <a>
-                      <img src="static/img/blog-6.jpg" title="" alt="" />
-                    </a>
-                  </Link>
-                </div>
-                <div className="blog-info">
-                  <div className="meta">29/FEB/2022 - WEBSITE - 1 COMMENT</div>
-                  <h6>
-                    <Link href="/single-blog">
-                      <a>
-                        10 Things You Most Likely {`Didn't`} Know About Design.
-                      </a>
-                    </Link>
-                  </h6>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-6 m-15px-tb blog-list-item">
-              <div className="blog-grid">
-                <div className="blog-img">
-                  <Link href="/single-blog">
-                    <a>
-                      <img src="static/img/blog-5.jpg" title="" alt="" />
-                    </a>
-                  </Link>
-                </div>
-                <div className="blog-info">
-                  <div className="meta">29/FEB/2022 - WEBSITE - 1 COMMENT</div>
-                  <h6>
-                    <Link href="/single-blog">
-                      <a>
-                        Why swiming is also another important thing for man.
-                      </a>
-                    </Link>
-                  </h6>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-6 m-15px-tb blog-list-item">
-              <div className="blog-grid">
-                <div className="blog-img">
-                  <Link href="/single-blog">
-                    <a>
-                      <img src="static/img/blog-4.jpg" title="" alt="" />
-                    </a>
-                  </Link>
-                </div>
-                <div className="blog-info">
-                  <div className="meta">29/FEB/2022 - WEBSITE - 1 COMMENT</div>
-                  <h6>
-                    <Link href="/single-blog">
-                      <a>
-                        What You Know About Design And What You {`Don't`} Know
-                        About Design.
+                        "Hey-Whizzy: A Google Assistant-Based Smart Classroom"
                       </a>
                     </Link>
                   </h6>
