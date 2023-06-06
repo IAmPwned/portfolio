@@ -373,10 +373,10 @@ const Internship = () => {
                     <div className="col-lg-12 m-15px-tb">
                       <h3>Competency-Based CV</h3>
                       <div className="img-in text-center">
-                        <img className="img-fluid" src="static/img/Zaraspe_Mark_Anthony_CV_Page_1.jpg" title="" alt="" />
+                        <img className="img-fluid" src="static/img/Zaraspe_Mark_Anthony_CV_Page_1" title="" alt="" />
                       </div>
                       <div className="img-in text-center">
-                        <img className="img-fluid" src="static/img/Zaraspe_Mark_Anthony_CV_Page_2.jpg" title="" alt="" />
+                        <img className="img-fluid" src="static/img/Zaraspe_Mark_Anthony_CV_Page_2" title="" alt="" />
                       </div>
                     </div>
                     <div className="col-lg-12 m-15px-tb">
