@@ -28,26 +28,6 @@ const About = () => {
                 <p className="text-justify">
                   {`I'm`} Mark Anthony Zaraspe, a web and mobile developer based in Laguna, Philippines. I have a passion for technology, and I particularly enjoy creating web and mobile applications and working on Internet of Things (IoT)-related projects. In addition, I'm quite interested in cybersecurity, which enables me to make sure that digital systems are secure and protected. With a solid foundation in these fields, I work hard to develop cutting-edge solutions that satisfy clients' expectations and progress technology.
                 </p>
-                <div className="row">
-                  <div className="col-auto">
-                    <div className="media align-items-center">
-                      <span className="count">59</span>
-                      <div className="media-body">
-                        Projects <br />
-                        Completed.
-                      </div>
-                    </div>
-                  </div>
-                  <div className="col-auto">
-                    <div className="media align-items-center">
-                      <span className="count">46</span>
-                      <div className="media-body">
-                        Satisfied <br />
-                        Clients.
-                      </div>
-                    </div>
-                  </div>
-                </div>
                 <div className="btn-bar">
                   <a className="px-btn px-btn-theme" href="#">
                     <span>Contact Me</span>
