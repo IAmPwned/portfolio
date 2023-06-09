@@ -51,9 +51,9 @@ const About = () => {
                 <span>AUGUST 2019 – PRESENT</span>
                 <h6>Bachelor of Science in Information Technology</h6>
                 <p>Mapúa Malayan Colleges Laguna</p>
-                <p className="ml-3 text-muted">{'>'} President's Lister</p>
-                <p className="ml-3 text-muted">{'>'} Dean's Lister</p>
-                <p className="ml-3 text-muted">{'>'} Full Academic Scholar</p>
+                <p className="ml-3 text-muted">{'>'} Consistent President's Lister</p>
+                <p className="ml-3 text-muted">{'>'} Consistent Dean's Lister</p>
+                <p className="ml-3 text-muted">{'>'} Consistent Full Academic Scholar</p>
                 <p className="ml-3 text-muted">{'>'} Former Mapúa MCL-ACM Member</p>
                 <p className="ml-3 text-muted">{'>'} Former Mapúa MCL-JISSA Member</p>
               </li>
