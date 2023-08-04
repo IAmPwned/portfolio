@@ -23,7 +23,7 @@ const Blog = () => {
             <div className="col-md-6 m-15px-tb blog-list-item">
               <div className="blog-grid">
                 <div className="blog-img">
-                  <Link href="/single-blog">
+                  <Link href="#">
                     <a>
                       <img src="static/img/fasttrack_codex.jpeg" title="" alt="" />
                     </a>
@@ -32,7 +32,7 @@ const Blog = () => {
                 <div className="blog-info">
                   <div className="meta">05/JUNE/2023 - ACADEMIC PRACTICUM</div>
                   <h6>
-                    <Link href="/single-blog">
+                    <Link href="#">
                       <a>
                         Fasttrack Solutions Inc. Internship
                       </a>
@@ -53,7 +53,7 @@ const Blog = () => {
                 <div className="blog-info">
                   <div className="meta">01/JUNE/2023 - ACADEMIC CAPSTONE PROJECT</div>
                   <h6>
-                    <Link href="/single-blog">
+                    <Link href="#">
                       <a>
                         "Hey-Whizzy: A Google Assistant-Based Smart Classroom"
                       </a>
