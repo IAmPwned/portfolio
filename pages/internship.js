@@ -366,7 +366,6 @@ const Internship = () => {
 
                 <div className="separated" />
 
-                
                 <h1>Appendices</h1>
 
                 <div className="row">
@@ -404,81 +403,6 @@ const Internship = () => {
                       <img className="img-fluid" src="static/img/Zaraspe - Form-OVPAA-030K-Host-Company-Evaluation_Page_2.jpg" title="" alt="" />
                     </div>
                   </div>
-                  <div className="col-lg-12 m-15px-tb">
-                    <h3>Week # 1 Journal</h3>
-                    <div className="img-in text-center">
-                      <img className="img-fluid" src="static/img/1_Journal.jpg" title="" alt="" />
-                    </div>
-                  </div>
-                  <div className="col-lg-12 m-15px-tb">
-                    <h3>Week # 2 Journal</h3>
-                    <div className="img-in text-center">
-                      <img className="img-fluid" src="static/img/2_Journal.jpg" title="" alt="" />
-                    </div>
-                  </div>
-                  <div className="col-lg-12 m-15px-tb">
-                    <h3>Week # 3 Journal</h3>
-                    <div className="img-in text-center">
-                      <img className="img-fluid" src="static/img/3_Journal.jpg" title="" alt="" />
-                    </div>
-                  </div>
-                  <div className="col-lg-12 m-15px-tb">
-                    <h3>Week # 4 Journal</h3>
-                    <div className="img-in text-center">
-                      <img className="img-fluid" src="static/img/4_Journal.jpg" title="" alt="" />
-                    </div>
-                  </div>
-                  <div className="col-lg-12 m-15px-tb">
-                    <h3>Week # 5 Journal</h3>
-                    <div className="img-in text-center">
-                      <img className="img-fluid" src="static/img/5_Journal.jpg" title="" alt="" />
-                    </div>
-                  </div>
-                  <div className="col-lg-12 m-15px-tb">
-                    <h3>Week # 6 Journal</h3>
-                    <div className="img-in text-center">
-                      <img className="img-fluid" src="static/img/6_Journal.jpg" title="" alt="" />
-                    </div>
-                  </div>
-                  <div className="col-lg-12 m-15px-tb">
-                    <h3>Week # 7 Journal</h3>
-                    <div className="img-in text-center">
-                      <img className="img-fluid" src="static/img/7_Journal.jpg" title="" alt="" />
-                    </div>
-                  </div>
-                  <div className="col-lg-12 m-15px-tb">
-                    <h3>Week # 8 Journal</h3>
-                    <div className="img-in text-center">
-                      <img className="img-fluid" src="static/img/8_Journal.jpg" title="" alt="" />
-                    </div>
-                  </div>
-                  <div className="col-lg-12 m-15px-tb">
-                    <h3>Week # 9 Journal</h3>
-                    <div className="img-in text-center">
-                      <img className="img-fluid" src="static/img/9_Journal.jpg" title="" alt="" />
-                    </div>
-                  </div>
-                  <div className="col-lg-12 m-15px-tb">
-                    <h3>Week # 10 Journal</h3>
-                    <div className="img-in text-center">
-                      <img className="img-fluid" src="static/img/10_Journal.jpg" title="" alt="" />
-                    </div>
-                  </div>
-                  <div className="col-lg-12 m-15px-tb">
-                    <h3>Week # 11 Journal</h3>
-                    <div className="img-in text-center">
-                      <img className="img-fluid" src="static/img/11_Journal.jpg" title="" alt="" />
-                    </div>
-                  </div>
-                  <div className="col-lg-12 m-15px-tb">
-                    <h3>Week # 12 Journal</h3>
-                    <div className="img-in text-center">
-                      <img className="img-fluid" src="static/img/12_Journal.jpg" title="" alt="" />
-                    </div>
-                  </div>
-
-                 
-
 
                 <div className="nav tag-cloud">
                   <a href="#">Fasttrack</a>
