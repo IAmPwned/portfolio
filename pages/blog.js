@@ -32,7 +32,7 @@ const Blog = () => {
                 <div className="blog-info">
                   <div className="meta">05/JUNE/2023 - ACADEMIC PRACTICUM</div>
                   <h6>
-                    <Link href="#">
+                    <Link href="/internship">
                       <a>
                         Fasttrack Solutions Inc. Internship
                       </a>
