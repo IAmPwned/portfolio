@@ -23,7 +23,7 @@ const Blog = () => {
             <div className="col-md-6 m-15px-tb blog-list-item">
               <div className="blog-grid">
                 <div className="blog-img">
-                  <Link href="internship">
+                  <Link href="/internship">
                     <a>
                       <img src="static/img/fasttrack_codex.jpeg" title="" alt="" />
                     </a>
